@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "minima".
 ---
 
 I'm glad you are here. I plan to talk about some things here, If you checked out the “About Me.” page then you know my name is kirti.  Looking at the front page, you probably saw that this is a Personal blog 
