@@ -1,7 +1,6 @@
 ---
 title: "Welcome to my blog" 
 ---
-
 I'm glad you are here. I plan to talk about some things here, If you checked out the “About Me.” page then you know my name is kirti.  Looking at the front page, you probably saw that this is a Personal blog. 
 
 Glad you came by. I wanted to welcome you and let you know I appreciate you spending time here at the blog very much.  Everyone is so busy and life moves pretty fast,  so I really do appreciate you taking time out of your busy day to check out my blog!.   
